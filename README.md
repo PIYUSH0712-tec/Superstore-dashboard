@@ -33,3 +33,20 @@ Phones, Chairs, Storage lead in sub-categories
 San Francisco, New York, Seattle generate highest profit
 
 Digital payments (UPI + Cards) dominate customer spending
+
+Tools Used: 
+
+Tableau Public – Dashboard creation
+
+Excel – Cleaning & preparation
+
+Google Slides – PPT Summary
+
+GitHub – Project hosting
+
+Author:
+
+Piyush Bidwaikar
+🔗 LinkedIn: https://linkedin.com/in/piyush-bidwaikar
+
+📧 Email: piyushbidwaikar123@gmail.com
